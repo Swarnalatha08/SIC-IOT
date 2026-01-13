@@ -1,0 +1,2 @@
+This is a sample  project for IoT devices.
+You can write your device names like Samsung, LG, Fan, Light, etc.
